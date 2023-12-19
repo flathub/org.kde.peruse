@@ -40,8 +40,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.3/src/okular-23.04.3.tar.xz",
-                    "sha256": "71815773b282aa12160a504065f2343b161036c6ad2ef52138a2fd6af0c4eced",
+                    "url": "https://download.kde.org/stable/release-service/23.08.4/src/okular-23.08.4.tar.xz",
+                    "sha256": "37fd73178ae287dcdcc2b2bc61aee2aa30a64765f862230315f521a94b50af11",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -142,8 +142,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://boostorg.jfrog.io/artifactory/main/release/1.82.0/source/boost_1_82_0.tar.bz2",
-                            "sha256": "a6e1ab9b0860e6a2881dd7b21fe9f737a095e5f33a3a874afc6a345228597ee6",
+                            "url": "https://boostorg.jfrog.io/artifactory/main/release/1.84.0/source/boost_1_84_0.tar.bz2",
+                            "sha256": "cc4b893acf645c9d4b698e9a0f08ca8846aa5d6c68275c14c3e7949c24109454",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 6845,
@@ -160,8 +160,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://libzip.org/download/libzip-1.10.0.tar.xz",
-                            "sha256": "cd2a7ac9f1fb5bfa6218272d9929955dc7237515bba6e14b5ad0e1d1e2212b43",
+                            "url": "https://libzip.org/download/libzip-1.10.1.tar.xz",
+                            "sha256": "dc3c8d5b4c8bbd09626864f6bcf93de701540f761d76b85d7c7d710f4bd90318",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 10649,
@@ -223,8 +223,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10012/ghostscript-10.01.2.tar.gz",
-                            "sha256": "a4cd61a07fec161bee35da0211a5e5cde8ff8a0aaf942fc0176715e499d21661",
+                            "url": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10021/ghostscript-10.02.1.tar.gz",
+                            "sha256": "e429e4f5b01615a4f0f93a4128e8a1a4d932dff983b1774174c79c0630717ad9",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 1157,
@@ -312,13 +312,14 @@
                         "-DBUILD_CPP_TESTS=OFF",
                         "-DENABLE_UTILS=OFF",
                         "-DENABLE_CPP=OFF",
-                        "-DENABLE_GLIB=OFF"
+                        "-DENABLE_GLIB=OFF",
+                        "-DENABLE_QT6=OFF"
                     ],
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://poppler.freedesktop.org/poppler-23.08.0.tar.xz",
-                            "sha256": "4a4bf7fc903b9f1a2ab7d04b7c5d8220db9bc6261cc73fdb9a826dc272f49aa8",
+                            "url": "https://poppler.freedesktop.org/poppler-23.12.0.tar.xz",
+                            "sha256": "beba398c9d37a9b6d02486496635e08f1df3d437cfe61dab2593f47c4d14cdbb",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 3686,
@@ -347,8 +348,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/frameworks/5.108/portingAids/kjs-5.108.0.tar.xz",
-                            "sha256": "f03921392bb54ba011e3275fb52c9ec8f975e49222639644aefecd9665809177",
+                            "url": "https://download.kde.org/stable/frameworks/5.111/portingAids/kjs-5.111.0.tar.xz",
+                            "sha256": "0f947fb59a418362ac7bde8c4183775353c31544213c4ee45c0e3d779831cf23",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8762,
@@ -365,8 +366,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/frameworks/5.108/portingAids/khtml-5.108.0.tar.xz",
-                            "sha256": "5b4ed49a5fc0a3e657503a4d4d010acd158f23233b46a302926d45d7e7eb5a4d",
+                            "url": "https://download.kde.org/stable/frameworks/5.111/portingAids/khtml-5.111.0.tar.xz",
+                            "sha256": "fdbbecf23cff80b125cb2b9b7869f8a09bd371aa5e04ba83957807eb85e7577f",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8762,
@@ -383,8 +384,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/release-service/23.04.3/src/libkexiv2-23.04.3.tar.xz",
-                            "sha256": "949550f0d7d41172b59f7000010b7e6c2acaaddade2f6139cfca5fb2143b8b99",
+                            "url": "https://download.kde.org/stable/release-service/23.08.4/src/libkexiv2-23.08.4.tar.xz",
+                            "sha256": "a060a1fa36118c496ab0f0afa2efe4a7532c16ce6e4b7b4fa8fc00305688f3f6",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8763,
@@ -401,8 +402,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/release-service/23.04.3/src/kdegraphics-mobipocket-23.04.3.tar.xz",
-                            "sha256": "bb65bd302a97466ed08c34668d32f61e50cfeadade73f3365d7a93566033168e",
+                            "url": "https://download.kde.org/stable/release-service/23.08.4/src/kdegraphics-mobipocket-23.08.4.tar.xz",
+                            "sha256": "f870fafdd9ebabfda5b9ab524a8c4acc8268ee15f2ac4d7617c362d793171de7",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8763,
@@ -422,8 +423,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://github.com/OpenPrinting/cups/releases/download/v2.4.6/cups-2.4.6-source.tar.gz",
-                            "sha256": "58e970cf1955e1cc87d0847c32526d9c2ccee335e5f0e3882b283138ba0e7262",
+                            "url": "https://github.com/OpenPrinting/cups/releases/download/v2.4.7/cups-2.4.7-source.tar.gz",
+                            "sha256": "dd54228dd903526428ce7e37961afaed230ad310788141da75cebaa08362cf6c",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 380,
