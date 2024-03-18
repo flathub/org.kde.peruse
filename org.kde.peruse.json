@@ -273,8 +273,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://github.com/uclouvain/openjpeg/archive/v2.5.0.tar.gz",
-                            "sha256": "0333806d6adecc6f7a91243b2b839ff4d2053823634d4f6ed7a59bc87409122a",
+                            "url": "https://github.com/uclouvain/openjpeg/archive/v2.5.2.tar.gz",
+                            "sha256": "90e3896fed910c376aaf79cdd98bdfdaf98c6472efd8e1debf0a854938cbda6a",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 2550,
@@ -384,8 +384,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/release-service/23.08.5/src/libkexiv2-23.08.5.tar.xz",
-                            "sha256": "31413030799065faf17ecbe46e6a4ce4c11758f5c1d590eb296c52f4fc1a9bf2",
+                            "url": "https://download.kde.org/stable/release-service/24.02.0/src/libkexiv2-24.02.0.tar.xz",
+                            "sha256": "2a8d733f60ee79eff8c5998be632aa369a7051153903f01ca74d6038095c874e",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8763,
