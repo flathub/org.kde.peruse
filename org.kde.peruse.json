@@ -402,8 +402,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/release-service/23.08.5/src/kdegraphics-mobipocket-23.08.5.tar.xz",
-                            "sha256": "714fa91bc7b004145fbba02e302dde0faa14bc652e4672c507fc507ac508a3fc",
+                            "url": "https://download.kde.org/stable/release-service/24.02.1/src/kdegraphics-mobipocket-24.02.1.tar.xz",
+                            "sha256": "793deb54f47c57cb3cf9a417485cdfbd31782be519bbde2f5b2206ab02d713a8",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8763,
