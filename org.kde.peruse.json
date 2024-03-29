@@ -6,13 +6,13 @@
     "command": "peruse",
     "rename-icon": "peruse",
     "finish-args": [
+        "--device=dri",
         "--share=ipc",
         "--share=network",
-        "--device=dri",
-        "--socket=wayland",
         "--socket=fallback-x11",
-        "--talk-name=org.kde.kcookiejar5",
-        "--system-talk-name=org.freedesktop.UDisks2"
+        "--socket=wayland",
+        "--system-talk-name=org.freedesktop.UDisks2",
+        "--talk-name=org.kde.kcookiejar5"
     ],
     "cleanup": [
         "*.a",
