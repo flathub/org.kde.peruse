@@ -40,8 +40,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/okular-23.08.5.tar.xz",
-                    "sha256": "d5d51f69b176a250907ee70e8f97143fc9d705cee3ef7ff448626c8a529ce364",
+                    "url": "https://download.kde.org/stable/release-service/24.02.2/src/okular-24.02.2.tar.xz",
+                    "sha256": "431d36b72bec3954b53f625ff850740e9dff0087b03bc7b71699ca46aeef04de",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -146,8 +146,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://boostorg.jfrog.io/artifactory/main/release/1.84.0/source/boost_1_84_0.tar.bz2",
-                            "sha256": "cc4b893acf645c9d4b698e9a0f08ca8846aa5d6c68275c14c3e7949c24109454",
+                            "url": "https://boostorg.jfrog.io/artifactory/main/release/1.85.0/source/boost_1_85_0.tar.bz2",
+                            "sha256": "7009fe1faa1697476bdc7027703a2badb84e849b7b0baad5086b087b971f8617",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 6845,
@@ -404,8 +404,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/release-service/24.02.1/src/libkexiv2-24.02.1.tar.xz",
-                            "sha256": "3cd61225274b0968691abd29e676e3d31b6f0f488024e5a78525dc39ba67f6e8",
+                            "url": "https://download.kde.org/stable/release-service/24.02.2/src/libkexiv2-24.02.2.tar.xz",
+                            "sha256": "ae60226f489394b239140a4266a2db470a0bcc1a6d77b03c71ae1e3eeff308dc",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8763,
@@ -422,8 +422,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/release-service/24.02.1/src/kdegraphics-mobipocket-24.02.1.tar.xz",
-                            "sha256": "793deb54f47c57cb3cf9a417485cdfbd31782be519bbde2f5b2206ab02d713a8",
+                            "url": "https://download.kde.org/stable/release-service/24.02.2/src/kdegraphics-mobipocket-24.02.2.tar.xz",
+                            "sha256": "911156160e4ac02f3026118de3f300896230f8e0a6bd7a7fcf5c95bc416cbd2a",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8763,
