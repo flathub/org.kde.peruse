@@ -46,7 +46,10 @@
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
-                        "url-template": "https://download.kde.org/stable/release-service/$version/src/okular-$version.tar.xz"
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/okular-$version.tar.xz",
+                        "versions": {
+                            "<": "24.02.0"
+                        }
                     }
                 }
             ],
