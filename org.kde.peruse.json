@@ -321,8 +321,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://poppler.freedesktop.org/poppler-24.09.0.tar.xz",
-                            "sha256": "ebd857987e2395608c69fdc44009692d5906f13b612c5280beff65a0b75dc255",
+                            "url": "https://poppler.freedesktop.org/poppler-24.10.0.tar.xz",
+                            "sha256": "58ed1849810f04a10b37c7ff6f3e411845c8a57d731d599d0045acc7a7fff09d",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 3686,
@@ -403,8 +403,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/release-service/24.08.1/src/libkexiv2-24.08.1.tar.xz",
-                            "sha256": "27d8b61e05869cfdee685183919cb31442db785d0b440399c8ba846294a7be67",
+                            "url": "https://download.kde.org/stable/release-service/24.08.2/src/libkexiv2-24.08.2.tar.xz",
+                            "sha256": "e29246536dc0af28c46708641614ec7f9e2174e0233ead37f33e99aaba098093",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8763,
@@ -421,8 +421,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/release-service/24.08.1/src/kdegraphics-mobipocket-24.08.1.tar.xz",
-                            "sha256": "0d94285fcd769043586700c332b82a972959efa63e1f74a8cea221658ffed032",
+                            "url": "https://download.kde.org/stable/release-service/24.08.2/src/kdegraphics-mobipocket-24.08.2.tar.xz",
+                            "sha256": "56bfddf24ce745513d6df2c295f119de6870981ebccf8d06a1066822ed7f3995",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8763,
@@ -442,8 +442,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://github.com/OpenPrinting/cups/releases/download/v2.4.10/cups-2.4.10-source.tar.gz",
-                            "sha256": "d75757c2bc0f7a28b02ee4d52ca9e4b1aa1ba2affe16b985854f5336940e5ad7",
+                            "url": "https://github.com/OpenPrinting/cups/releases/download/v2.4.11/cups-2.4.11-source.tar.gz",
+                            "sha256": "9a88fe1da3a29a917c3fc67ce6eb3178399d68e1a548c6d86c70d9b13651fd71",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 380,
