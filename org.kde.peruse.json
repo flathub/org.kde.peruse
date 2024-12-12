@@ -145,8 +145,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://boostorg.jfrog.io/artifactory/main/release/1.86.0/source/boost_1_86_0.tar.bz2",
-                            "sha256": "1bed88e40401b2cb7a1f76d4bab499e352fa4d0c5f31c0dbae64e24d34d7513b",
+                            "url": "https://boostorg.jfrog.io/artifactory/main/release/1.87.0/source/boost_1_87_0.tar.bz2",
+                            "sha256": "af57be25cb4c4f4b413ed692fe378affb4352ea50fbe294a11ef548f4d527d89",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 6845,
@@ -163,8 +163,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://libzip.org/download/libzip-1.11.1.tar.xz",
-                            "sha256": "721e0e4e851073b508c243fd75eda04e4c5006158a900441de10ce274cc3b633",
+                            "url": "https://libzip.org/download/libzip-1.11.2.tar.xz",
+                            "sha256": "5d471308cef4c4752bbcf973d9cd37ba4cb53739116c30349d4764ba1410dfc1",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 10649,
@@ -276,8 +276,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://github.com/uclouvain/openjpeg/archive/v2.5.2.tar.gz",
-                            "sha256": "90e3896fed910c376aaf79cdd98bdfdaf98c6472efd8e1debf0a854938cbda6a",
+                            "url": "https://github.com/uclouvain/openjpeg/archive/v2.5.3.tar.gz",
+                            "sha256": "368fe0468228e767433c9ebdea82ad9d801a3ad1e4234421f352c8b06e7aa707",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 2550,
@@ -321,8 +321,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://poppler.freedesktop.org/poppler-24.09.0.tar.xz",
-                            "sha256": "ebd857987e2395608c69fdc44009692d5906f13b612c5280beff65a0b75dc255",
+                            "url": "https://poppler.freedesktop.org/poppler-24.12.0.tar.xz",
+                            "sha256": "1cf374c3146f3f685d9257701bf0c2866c61d6c202c14d1f5c01a1f3a089028a",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 3686,
@@ -403,8 +403,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/release-service/24.08.1/src/libkexiv2-24.08.1.tar.xz",
-                            "sha256": "27d8b61e05869cfdee685183919cb31442db785d0b440399c8ba846294a7be67",
+                            "url": "https://download.kde.org/stable/release-service/24.08.3/src/libkexiv2-24.08.3.tar.xz",
+                            "sha256": "9f3865411afb594ad2da9f2907e5124277f662be3f4c614bd4d5ccc36cfb8906",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8763,
@@ -421,8 +421,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/release-service/24.08.1/src/kdegraphics-mobipocket-24.08.1.tar.xz",
-                            "sha256": "0d94285fcd769043586700c332b82a972959efa63e1f74a8cea221658ffed032",
+                            "url": "https://download.kde.org/stable/release-service/24.08.3/src/kdegraphics-mobipocket-24.08.3.tar.xz",
+                            "sha256": "ee4e959aa6d9753b3e715b98da92251da41621e387fe06531f0a6fad057fa34a",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8763,
@@ -442,8 +442,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://github.com/OpenPrinting/cups/releases/download/v2.4.10/cups-2.4.10-source.tar.gz",
-                            "sha256": "d75757c2bc0f7a28b02ee4d52ca9e4b1aa1ba2affe16b985854f5336940e5ad7",
+                            "url": "https://github.com/OpenPrinting/cups/releases/download/v2.4.11/cups-2.4.11-source.tar.gz",
+                            "sha256": "9a88fe1da3a29a917c3fc67ce6eb3178399d68e1a548c6d86c70d9b13651fd71",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 380,
