@@ -163,8 +163,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://libzip.org/download/libzip-1.11.1.tar.xz",
-                            "sha256": "721e0e4e851073b508c243fd75eda04e4c5006158a900441de10ce274cc3b633",
+                            "url": "https://libzip.org/download/libzip-1.11.3.tar.xz",
+                            "sha256": "9509d878ba788271c8b5abca9cfde1720f075335686237b7e9a9e7210fe67c1b",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 10649,
@@ -321,8 +321,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://poppler.freedesktop.org/poppler-24.09.0.tar.xz",
-                            "sha256": "ebd857987e2395608c69fdc44009692d5906f13b612c5280beff65a0b75dc255",
+                            "url": "https://poppler.freedesktop.org/poppler-25.01.0.tar.xz",
+                            "sha256": "7eefc122207bbbd72a303c5e0743f4941e8ae861e24dcf0501e18ce1d1414112",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 3686,
@@ -403,8 +403,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/release-service/24.08.1/src/libkexiv2-24.08.1.tar.xz",
-                            "sha256": "27d8b61e05869cfdee685183919cb31442db785d0b440399c8ba846294a7be67",
+                            "url": "https://download.kde.org/stable/release-service/24.12.1/src/libkexiv2-24.12.1.tar.xz",
+                            "sha256": "b8e051a1c69c2717d47841eaf81d2be561c3a95cffc6749270e56e0912e9771c",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8763,
@@ -421,8 +421,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/release-service/24.08.1/src/kdegraphics-mobipocket-24.08.1.tar.xz",
-                            "sha256": "0d94285fcd769043586700c332b82a972959efa63e1f74a8cea221658ffed032",
+                            "url": "https://download.kde.org/stable/release-service/24.12.1/src/kdegraphics-mobipocket-24.12.1.tar.xz",
+                            "sha256": "76ef050af8169f1ad9325b0a358c4bf5812d6fb858ac3538f173b3a2c3a8ea66",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8763,
@@ -442,8 +442,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://github.com/OpenPrinting/cups/releases/download/v2.4.10/cups-2.4.10-source.tar.gz",
-                            "sha256": "d75757c2bc0f7a28b02ee4d52ca9e4b1aa1ba2affe16b985854f5336940e5ad7",
+                            "url": "https://github.com/OpenPrinting/cups/releases/download/v2.4.11/cups-2.4.11-source.tar.gz",
+                            "sha256": "9a88fe1da3a29a917c3fc67ce6eb3178399d68e1a548c6d86c70d9b13651fd71",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 380,
