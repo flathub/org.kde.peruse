@@ -60,8 +60,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://github.com/gnustep/tools-make/archive/make-2_9_2.tar.gz",
-                            "sha256": "b3fdee058879675f6979c553fb6172b160ca79ffd0f170f51379326b7922941a",
+                            "url": "https://github.com/gnustep/tools-make/archive/make-2_9_3.tar.gz",
+                            "sha256": "aad12caecb0398b099f3b8b0282cecc3f01a9f371200641b2e1e535ae6ee2543",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 1220,
@@ -163,8 +163,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://libzip.org/download/libzip-1.11.1.tar.xz",
-                            "sha256": "721e0e4e851073b508c243fd75eda04e4c5006158a900441de10ce274cc3b633",
+                            "url": "https://libzip.org/download/libzip-1.11.3.tar.xz",
+                            "sha256": "9509d878ba788271c8b5abca9cfde1720f075335686237b7e9a9e7210fe67c1b",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 10649,
@@ -276,8 +276,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://github.com/uclouvain/openjpeg/archive/v2.5.2.tar.gz",
-                            "sha256": "90e3896fed910c376aaf79cdd98bdfdaf98c6472efd8e1debf0a854938cbda6a",
+                            "url": "https://github.com/uclouvain/openjpeg/archive/v2.5.3.tar.gz",
+                            "sha256": "368fe0468228e767433c9ebdea82ad9d801a3ad1e4234421f352c8b06e7aa707",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 2550,
@@ -321,8 +321,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://poppler.freedesktop.org/poppler-24.09.0.tar.xz",
-                            "sha256": "ebd857987e2395608c69fdc44009692d5906f13b612c5280beff65a0b75dc255",
+                            "url": "https://poppler.freedesktop.org/poppler-25.02.0.tar.xz",
+                            "sha256": "21234cb2a9647d73c752ce4031e65a79d11a511a835f2798284c2497b8701dee",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 3686,
@@ -403,8 +403,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/release-service/24.08.1/src/libkexiv2-24.08.1.tar.xz",
-                            "sha256": "27d8b61e05869cfdee685183919cb31442db785d0b440399c8ba846294a7be67",
+                            "url": "https://download.kde.org/stable/release-service/24.12.2/src/libkexiv2-24.12.2.tar.xz",
+                            "sha256": "f797fd8f442f578de464ba2b861b9d6b2d02e2351a3ffb6aa5e54ce2947c2c8f",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8763,
@@ -421,8 +421,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/release-service/24.08.1/src/kdegraphics-mobipocket-24.08.1.tar.xz",
-                            "sha256": "0d94285fcd769043586700c332b82a972959efa63e1f74a8cea221658ffed032",
+                            "url": "https://download.kde.org/stable/release-service/24.12.2/src/kdegraphics-mobipocket-24.12.2.tar.xz",
+                            "sha256": "ea9dfbc69baf5ebe8c482344bdccc980abccbcb397971db21d178922255abb46",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8763,
@@ -442,8 +442,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://github.com/OpenPrinting/cups/releases/download/v2.4.10/cups-2.4.10-source.tar.gz",
-                            "sha256": "d75757c2bc0f7a28b02ee4d52ca9e4b1aa1ba2affe16b985854f5336940e5ad7",
+                            "url": "https://github.com/OpenPrinting/cups/releases/download/v2.4.11/cups-2.4.11-source.tar.gz",
+                            "sha256": "9a88fe1da3a29a917c3fc67ce6eb3178399d68e1a548c6d86c70d9b13651fd71",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 380,
