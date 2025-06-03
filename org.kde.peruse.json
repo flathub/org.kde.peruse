@@ -466,7 +466,7 @@
                 },
                 {
                     "type": "patch",
-                    "path": "0002-add-captions.patch"
+                    "path": "0002-captions-launchable.patch"
                 }
             ]
         }

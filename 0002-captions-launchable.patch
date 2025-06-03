@@ -1,14 +1,14 @@
-From 33539e3a1b7e7dca9f9c44fa71d2f199a38b8998 Mon Sep 17 00:00:00 2001
+From c7b321891feca09746fd00282d176b239ffd2b5e Mon Sep 17 00:00:00 2001
 From: PunkPangolin <116445585+PunkPangolin@users.noreply.github.com>
-Date: Tue, 3 Jun 2025 22:07:30 +0200
-Subject: [PATCH] patch1
+Date: Wed, 4 Jun 2025 00:26:47 +0200
+Subject: [PATCH] captions-launchable
 
 ---
- src/app/org.kde.peruse.appdata.xml | 3 +++
- 1 file changed, 3 insertions(+)
+ src/app/org.kde.peruse.appdata.xml | 4 ++++
+ 1 file changed, 4 insertions(+)
 
 diff --git a/src/app/org.kde.peruse.appdata.xml b/src/app/org.kde.peruse.appdata.xml
-index 2ea1941..645e249 100644
+index 2ea1941..06eb0cb 100644
 --- a/src/app/org.kde.peruse.appdata.xml
 +++ b/src/app/org.kde.peruse.appdata.xml
 @@ -271,12 +271,15 @@
@@ -27,6 +27,12 @@ index 2ea1941..645e249 100644
      </screenshot>
    </screenshots>
    <releases>
+@@ -292,4 +295,5 @@
+   <provides>
+     <binary>peruse</binary>
+   </provides>
++  <launchable type="desktop-id">org.kde.peruse.desktop</launchable>
+ </component>
 -- 
 2.49.0
 
