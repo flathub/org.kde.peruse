@@ -463,6 +463,10 @@
                 {
                     "type": "patch",
                     "path": "0001-org.kde.peruse.appdata-Add-developer_name.patch"
+                },
+                {
+                    "type": "patch",
+                    "path": "0002-add-captions.patch"
                 }
             ]
         }
