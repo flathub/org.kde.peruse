@@ -321,8 +321,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://poppler.freedesktop.org/poppler-25.05.0.tar.xz",
-                            "sha256": "9b1627c5b76816ac5e4052a03f5b605ba40b45cf06b02cadd0479620b499ab38",
+                            "url": "https://poppler.freedesktop.org/poppler-25.07.0.tar.xz",
+                            "sha256": "c504a9066dbdfebe377ad53cec641fd971ee96c4e1e8ca74e6c9c03d46d817ae",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 3686,
@@ -391,8 +391,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/release-service/25.04.1/src/libkexiv2-25.04.1.tar.xz",
-                            "sha256": "f0669527d1fe7ef22c3ef7c8270ef29deafb0923ec782a22f1ced1b775367190",
+                            "url": "https://download.kde.org/stable/release-service/25.04.3/src/libkexiv2-25.04.3.tar.xz",
+                            "sha256": "d7b8d791e9db8facf16a95447daa597efaaa6b42d300fa7cbe9d1ff5b9e7b5a8",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8763,
@@ -409,8 +409,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/release-service/25.04.1/src/kdegraphics-mobipocket-25.04.1.tar.xz",
-                            "sha256": "e742b6a69099aea27807c0c856e161b2bd9859e8745cbb09ac51cb4dfd8d7bf9",
+                            "url": "https://download.kde.org/stable/release-service/25.04.3/src/kdegraphics-mobipocket-25.04.3.tar.xz",
+                            "sha256": "12f66c78d190867c1c994f650f1409c87bde0fd592911ad3a475b7502045f3d3",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8763,
