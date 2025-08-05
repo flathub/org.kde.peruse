@@ -19,6 +19,7 @@
         ".la",
         "/etc",
         "/include",
+        "/lib/*.la",
         "/lib/cmake",
         "/lib/pkgconfig",
         "/mkspecs",
