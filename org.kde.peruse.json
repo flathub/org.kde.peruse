@@ -19,6 +19,7 @@
         ".la",
         "/etc",
         "/include",
+        "/lib/*.la",
         "/lib/cmake",
         "/lib/pkgconfig",
         "/mkspecs",
@@ -340,7 +341,13 @@
                         {
                             "type": "archive",
                             "url": "https://github.com/Exiv2/exiv2/releases/download/v0.27.6/exiv2-0.27.6-Source.tar.gz",
-                            "sha256": "4c192483a1125dc59a3d70b30d30d32edace9e14adf52802d2f853abf72db8a6"
+                            "sha256": "4c192483a1125dc59a3d70b30d30d32edace9e14adf52802d2f853abf72db8a6",
+                            "x-checker-data": {
+                                "type": "anitya",
+                                "project-id": 769,
+                                "stable-only": true,
+                                "url-template": "https://github.com/Exiv2/exiv2/releases/download/v$version/exiv2-$version-Source.tar.gz"
+                            }
                         }
                     ]
                 },
@@ -356,7 +363,13 @@
                         {
                             "type": "archive",
                             "url": "http://prdownloads.sourceforge.net/pcre/pcre-8.45.tar.bz2",
-                            "sha256": "4dae6fdcd2bb0bb6c37b5f97c33c2be954da743985369cddac3546e3218bffb8"
+                            "sha256": "4dae6fdcd2bb0bb6c37b5f97c33c2be954da743985369cddac3546e3218bffb8",
+                            "x-checker-data": {
+                                "type": "anitya",
+                                "project-id": 2610,
+                                "stable-only": true,
+                                "url-template": "http://prdownloads.sourceforge.net/pcre/pcre-$version.tar.bz2"
+                            }
                         }
                     ]
                 },
@@ -450,7 +463,14 @@
                 {
                     "type": "archive",
                     "url": "https://download.kde.org/stable/peruse/peruse-1.80.tar.xz",
-                    "sha256": "c674959ca176d236f1568156e35036d8d65655952bcbf17b1be4ece4d2ba3351"
+                    "sha256": "c674959ca176d236f1568156e35036d8d65655952bcbf17b1be4ece4d2ba3351",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 375045,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/peruse/peruse-$version.tar.xz"
+                    }
+
                 },
                 {
                     "type": "patch",
