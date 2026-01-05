@@ -490,6 +490,10 @@
                 {
                     "type": "patch",
                     "path": "0002-captions-launchable.patch"
+                },
+                {
+                    "type": "patch",
+                    "path": "0001-appdata-Update-links-to-screenshots.patch"
                 }
             ]
         }
