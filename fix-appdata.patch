@@ -1,0 +1,62 @@
+From c640fbcd1412881c588913ee78ce088be96561d7 Mon Sep 17 00:00:00 2001
+From: Sabri Ünal <yakushabb@gmail.com>
+Date: Tue, 6 Jan 2026 17:42:59 +0300
+Subject: [PATCH] Fix appdata paper cuts
+
+---
+ src/app/org.kde.peruse.appdata.xml | 23 +++++++++++++++++++----
+ 1 file changed, 19 insertions(+), 4 deletions(-)
+
+diff --git a/src/app/org.kde.peruse.appdata.xml b/src/app/org.kde.peruse.appdata.xml
+index a9d193b..b15577c 100644
+--- a/src/app/org.kde.peruse.appdata.xml
++++ b/src/app/org.kde.peruse.appdata.xml
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="utf-8"?>
+ <!-- Copyright 2016 Dan Leinir Turthra Jensen <admin@leinir.dk> -->
+-<component type="desktop">
++<component type="desktop-application">
+   <id>org.kde.peruse.desktop</id>
+   <metadata_license>CC0-1.0</metadata_license>
+   <project_license>GPL-2.0+</project_license>
+@@ -269,19 +269,34 @@
+   </description>
+   <screenshots>
+     <screenshot type="default">
+-      <image width="1797" height="1155">https://peruse.kde.org/screenshots/peruse-welcome.jpg</image>
++      <image width="1797" height="1155">https://cdn.kde.org/screenshots/peruse/peruse-welcome.jpg</image>
++      <caption>Peruse Welcome Screen</caption>
+     </screenshot>
+     <screenshot type="default">
+-      <image width="1886" height="1152">https://peruse.kde.org/screenshots/peruse-reading-sidebar.jpg</image>
++      <image width="1886" height="1152">https://cdn.kde.org/screenshots/peruse/peruse-reading-sidebar.jpg</image>
++      <caption>Peruse Reading Sidebar</caption>
+     </screenshot>
+     <screenshot type="default">
+-      <image width="1839" height="1124">https://peruse.kde.org/screenshots/peruse-book-details.jpg</image>
++      <image width="1839" height="1124">https://cdn.kde.org/screenshots/peruse/peruse-book-details.jpg</image>
++      <caption>Peruse Book Details</caption>
+     </screenshot>
+   </screenshots>
+   <url type="homepage">https://peruse.kde.org/</url>
+   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=peruse</url>
++  <url type="vcs-browser">https://invent.kde.org/graphics/peruse</url>
++  <developer id="org.kde">
++    <name>KDE</name>
++  </developer>
++  <launchable type="desktop-id">org.kde.peruse.desktop</launchable>
++  <content_rating type="oars-1.1"/>
+   <project_group>KDE</project_group>
+   <provides>
+     <binary>peruse</binary>
+   </provides>
++  <releases>
++    <release version="1.80" date="2021-04-20" type="stable"/>
++    <release version="1.2" date="2016-12-22" type="stable"/>
++    <release version="1.1" date="2016-07-04" type="stable"/>
++    <release version="1.0" date="2016-06-21" type="stable"/>
++  </releases>
+ </component>
+--
+libgit2 1.7.2
+
