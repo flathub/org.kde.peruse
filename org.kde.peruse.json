@@ -301,8 +301,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://poppler.freedesktop.org/poppler-26.01.0.tar.xz",
-                            "sha256": "1cb944a4b88847f5fb6551683bc799db59f04990f5d8be07aba2acbf38601089",
+                            "url": "https://poppler.freedesktop.org/poppler-26.02.0.tar.xz",
+                            "sha256": "dded8621f7b2f695c91063aab1558691c8418374cd583501e89ed39487e7ab77",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 3686,
@@ -383,8 +383,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/release-service/25.08.3/src/libkexiv2-25.08.3.tar.xz",
-                            "sha256": "0806898554b62a6f834d33bb481923d82bde91b1692ba7b146fec94b9a503d03",
+                            "url": "https://download.kde.org/stable/release-service/25.12.2/src/libkexiv2-25.12.2.tar.xz",
+                            "sha256": "b8d914d03ca96b4e2d3a1707af424980a7f0685b109220b25efb76ed7e7778b6",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8763,
