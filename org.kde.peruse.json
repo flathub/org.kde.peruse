@@ -228,8 +228,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10060/ghostscript-10.06.0.tar.gz",
-                            "sha256": "5bd6da34794928cc7e616f288e32bd0be7f9a5ca2d3c206a0af2c19a4e3a318f",
+                            "url": "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10070/ghostscript-10.07.0.tar.gz",
+                            "sha256": "ed6ea62022e3f4d5a6569b6efc9361b63a6d118bfcad8f0beb897c37885b5cad",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 1157,
@@ -301,8 +301,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://poppler.freedesktop.org/poppler-26.01.0.tar.xz",
-                            "sha256": "1cb944a4b88847f5fb6551683bc799db59f04990f5d8be07aba2acbf38601089",
+                            "url": "https://poppler.freedesktop.org/poppler-26.03.0.tar.xz",
+                            "sha256": "8b3c5e2a9f2ab4c3ec5029f28af1b433c6b71f0d1e7b3997aa561cf1c0ca4ebe",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 3686,
@@ -383,8 +383,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://download.kde.org/stable/release-service/25.08.3/src/libkexiv2-25.08.3.tar.xz",
-                            "sha256": "0806898554b62a6f834d33bb481923d82bde91b1692ba7b146fec94b9a503d03",
+                            "url": "https://download.kde.org/stable/release-service/25.12.3/src/libkexiv2-25.12.3.tar.xz",
+                            "sha256": "8ed6de46cdd084a834dd0f2049d6490977a8eedc50a2e59f715fb1cecf6653ec",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 8763,
